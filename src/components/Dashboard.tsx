@@ -169,7 +169,7 @@ const PURPOSE_OPTION = createBarOption(
     { value: 3, name: "ጠባይ ለማስተካከል" },
     { value: 1, name: "ለዲቁና" },
   ],
-  true,
+  false,
 );
 
 // Using Pie chart for a simple Yes/No breakdown
